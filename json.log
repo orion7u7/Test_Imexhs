@@ -1,0 +1,244 @@
+2024-08-28 12:05:39,075:INFO:Processing element aabbcc1 from CT SCAN
+2024-08-28 12:05:39,076:INFO:Processing element aabbcc2 from CT SCAN
+2024-08-28 12:05:39,079:INFO:Element aabbcc1, Device CT SCAN, Data Size 30, Average Before 51.13333333333333, Average After 0.5326388888888888
+2024-08-28 12:05:39,080:INFO:Element aabbcc2, Device CT SCAN, Data Size 30, Average Before 52.7, Average After 0.5489583333333333
+2024-08-28 12:05:52,578:INFO:Processing element aabbcc2 from CT SCAN
+2024-08-28 12:05:52,612:INFO:Processing element aabbcc3 from CT SCAN
+2024-08-28 12:05:52,612:INFO:Processing element aabbcc4 from MRI
+2024-08-28 12:05:52,613:INFO:Processing element aabbcc1 from RX 1
+2024-08-28 12:05:52,615:INFO:Element aabbcc2, Device CT SCAN, Data Size 250000, Average Before 49.926652, Average After 0.49926652
+2024-08-28 12:05:52,615:INFO:Element aabbcc4, Device MRI, Data Size 250000, Average Before 50.025664, Average After 0.5002566399999999
+2024-08-28 12:05:52,633:INFO:Element aabbcc1, Device RX 1, Data Size 250000, Average Before 50.010948, Average After 0.50010948
+2024-08-28 12:05:52,648:INFO:Element aabbcc3, Device CT SCAN, Data Size 250000, Average Before 50.161724, Average After 0.50161724
+2024-08-28 12:05:52,679:INFO:Processing element aabbcc5 from CT SCAN
+2024-08-28 12:05:52,788:INFO:Processing element aabbcc6 from RX 1
+2024-08-28 12:05:52,788:INFO:Processing element aabbcc7 from RX 1
+2024-08-28 12:05:52,821:INFO:Processing element aabbcc8 from RX 1
+2024-08-28 12:05:52,821:INFO:Element aabbcc6, Device RX 1, Data Size 250000, Average Before 50.061148, Average After 0.5006114800000001
+2024-08-28 12:05:52,821:INFO:Element aabbcc5, Device CT SCAN, Data Size 250000, Average Before 49.951484, Average After 0.4995148399999999
+2024-08-28 12:05:52,881:INFO:Element aabbcc7, Device RX 1, Data Size 250000, Average Before 50.063484, Average After 0.5006348400000001
+2024-08-28 12:05:52,951:INFO:Processing element aabbcc9 from MRI
+2024-08-28 12:05:52,958:INFO:Processing element aabbcc10 from RX 1
+2024-08-28 12:05:52,973:INFO:Element aabbcc8, Device RX 1, Data Size 250000, Average Before 50.05116, Average After 0.5005116000000002
+2024-08-28 12:05:52,973:INFO:Processing element aabbcc11 from MRI
+2024-08-28 12:05:53,004:INFO:Element aabbcc10, Device RX 1, Data Size 250000, Average Before 49.953724, Average After 0.4995372400000001
+2024-08-28 12:05:53,004:INFO:Element aabbcc9, Device MRI, Data Size 250000, Average Before 50.114768, Average After 0.5011476800000001
+2024-08-28 12:05:53,030:INFO:Processing element aabbcc12 from MRI
+2024-08-28 12:05:53,050:INFO:Element aabbcc11, Device MRI, Data Size 250000, Average Before 50.031, Average After 0.50031
+2024-08-28 12:05:53,145:INFO:Element aabbcc12, Device MRI, Data Size 250000, Average Before 50.024808, Average After 0.5002480800000001
+2024-08-28 12:05:53,207:INFO:Processing element aabbcc14 from MRI
+2024-08-28 12:05:53,237:INFO:Processing element aabbcc13 from CT SCAN
+2024-08-28 12:05:53,237:INFO:Processing element aabbcc15 from RX 1
+2024-08-28 12:05:53,278:INFO:Processing element aabbcc16 from MRI
+2024-08-28 12:05:53,279:INFO:Element aabbcc13, Device CT SCAN, Data Size 250000, Average Before 50.121756, Average After 0.5012175600000001
+2024-08-28 12:05:53,279:INFO:Element aabbcc14, Device MRI, Data Size 250000, Average Before 50.05206, Average After 0.5005205999999999
+2024-08-28 12:05:53,349:INFO:Element aabbcc15, Device RX 1, Data Size 250000, Average Before 49.980448, Average After 0.49980447999999994
+2024-08-28 12:05:53,412:INFO:Processing element aabbcc18 from RX 1
+2024-08-28 12:05:53,412:INFO:Element aabbcc16, Device MRI, Data Size 250000, Average Before 50.060764, Average After 0.50060764
+2024-08-28 12:05:53,412:INFO:Processing element aabbcc17 from RX 1
+2024-08-28 12:05:53,450:INFO:Processing element aabbcc19 from MRI
+2024-08-28 12:05:53,501:INFO:Processing element aabbcc20 from MRI
+2024-08-28 12:05:53,501:INFO:Element aabbcc19, Device MRI, Data Size 250000, Average Before 49.957376, Average After 0.4995737600000001
+2024-08-28 12:05:53,501:INFO:Element aabbcc18, Device RX 1, Data Size 250000, Average Before 50.037816, Average After 0.5003781599999999
+2024-08-28 12:05:53,502:INFO:Element aabbcc17, Device RX 1, Data Size 250000, Average Before 49.91966, Average After 0.49919660000000005
+2024-08-28 12:05:53,503:INFO:Element aabbcc20, Device MRI, Data Size 250000, Average Before 49.976344, Average After 0.49976343999999995
+2024-08-28 12:06:46,146:INFO:Processing element aabbcc2 from CT SCAN
+2024-08-28 12:06:46,146:INFO:Processing element aabbcc1 from RX 1
+2024-08-28 12:06:46,193:INFO:Processing element aabbcc3 from CT SCAN
+2024-08-28 12:06:46,222:INFO:Processing element aabbcc4 from MRI
+2024-08-28 12:06:46,223:INFO:Element aabbcc2, Device CT SCAN, Data Size 250000, Average Before 49.926652, Average After 0.49926652
+2024-08-28 12:06:46,255:INFO:Element aabbcc1, Device RX 1, Data Size 250000, Average Before 50.010948, Average After 0.50010948
+2024-08-28 12:06:46,277:INFO:Processing element aabbcc5 from CT SCAN
+2024-08-28 12:06:46,277:INFO:Element aabbcc3, Device CT SCAN, Data Size 250000, Average Before 50.161724, Average After 0.50161724
+2024-08-28 12:06:46,287:INFO:Element aabbcc4, Device MRI, Data Size 250000, Average Before 50.025664, Average After 0.5002566399999999
+2024-08-28 12:06:46,364:INFO:Element aabbcc5, Device CT SCAN, Data Size 250000, Average Before 49.951484, Average After 0.4995148399999999
+2024-08-28 12:06:46,364:INFO:Processing element aabbcc6 from RX 1
+2024-08-28 12:06:46,464:INFO:Processing element aabbcc8 from RX 1
+2024-08-28 12:06:46,465:INFO:Processing element aabbcc7 from RX 1
+2024-08-28 12:06:46,490:INFO:Element aabbcc6, Device RX 1, Data Size 250000, Average Before 50.061148, Average After 0.5006114800000001
+2024-08-28 12:06:46,491:INFO:Processing element aabbcc9 from MRI
+2024-08-28 12:06:46,522:INFO:Element aabbcc7, Device RX 1, Data Size 250000, Average Before 50.063484, Average After 0.5006348400000001
+2024-08-28 12:06:46,522:INFO:Element aabbcc8, Device RX 1, Data Size 250000, Average Before 50.05116, Average After 0.5005116000000002
+2024-08-28 12:06:46,546:INFO:Processing element aabbcc10 from RX 1
+2024-08-28 12:06:46,569:INFO:Element aabbcc9, Device MRI, Data Size 250000, Average Before 50.114768, Average After 0.5011476800000001
+2024-08-28 12:06:46,631:INFO:Element aabbcc10, Device RX 1, Data Size 250000, Average Before 49.953724, Average After 0.4995372400000001
+2024-08-28 12:06:46,631:INFO:Processing element aabbcc11 from MRI
+2024-08-28 12:06:46,678:INFO:Processing element aabbcc12 from MRI
+2024-08-28 12:06:46,712:INFO:Processing element aabbcc13 from CT SCAN
+2024-08-28 12:06:46,725:INFO:Element aabbcc12, Device MRI, Data Size 250000, Average Before 50.024808, Average After 0.5002480800000001
+2024-08-28 12:06:46,725:INFO:Element aabbcc11, Device MRI, Data Size 250000, Average Before 50.031, Average After 0.50031
+2024-08-28 12:06:46,788:INFO:Processing element aabbcc14 from MRI
+2024-08-28 12:06:46,836:INFO:Processing element aabbcc15 from RX 1
+2024-08-28 12:06:46,882:INFO:Element aabbcc13, Device CT SCAN, Data Size 250000, Average Before 50.121756, Average After 0.5012175600000001
+2024-08-28 12:06:46,882:INFO:Processing element aabbcc16 from MRI
+2024-08-28 12:06:46,883:INFO:Element aabbcc14, Device MRI, Data Size 250000, Average Before 50.05206, Average After 0.5005205999999999
+2024-08-28 12:06:46,913:INFO:Element aabbcc15, Device RX 1, Data Size 250000, Average Before 49.980448, Average After 0.49980447999999994
+2024-08-28 12:06:46,960:INFO:Processing element aabbcc17 from RX 1
+2024-08-28 12:06:46,960:INFO:Element aabbcc16, Device MRI, Data Size 250000, Average Before 50.060764, Average After 0.50060764
+2024-08-28 12:06:47,038:INFO:Processing element aabbcc18 from RX 1
+2024-08-28 12:06:47,070:INFO:Processing element aabbcc19 from MRI
+2024-08-28 12:06:47,103:INFO:Processing element aabbcc20 from MRI
+2024-08-28 12:06:47,103:INFO:Element aabbcc17, Device RX 1, Data Size 250000, Average Before 49.91966, Average After 0.49919660000000005
+2024-08-28 12:06:47,105:INFO:Element aabbcc19, Device MRI, Data Size 250000, Average Before 49.957376, Average After 0.4995737600000001
+2024-08-28 12:06:47,105:INFO:Element aabbcc18, Device RX 1, Data Size 250000, Average Before 50.037816, Average After 0.5003781599999999
+2024-08-28 12:06:47,105:INFO:Element aabbcc20, Device MRI, Data Size 250000, Average Before 49.976344, Average After 0.49976343999999995
+2024-08-28 12:07:06,079:INFO:Processing element aabbcc1 from RX 1
+2024-08-28 12:07:06,248:INFO:Processing element aabbcc2 from CT SCAN
+2024-08-28 12:07:06,248:INFO:Processing element aabbcc3 from CT SCAN
+2024-08-28 12:07:06,248:INFO:Processing element aabbcc4 from MRI
+2024-08-28 12:07:06,250:INFO:Element aabbcc1, Device RX 1, Data Size 250000, Average Before 50.010948, Average After 0.50010948
+2024-08-28 12:07:06,250:INFO:Element aabbcc2, Device CT SCAN, Data Size 250000, Average Before 49.926652, Average After 0.49926652
+2024-08-28 12:07:06,271:INFO:Element aabbcc3, Device CT SCAN, Data Size 250000, Average Before 50.161724, Average After 0.50161724
+2024-08-28 12:07:06,271:INFO:Element aabbcc4, Device MRI, Data Size 250000, Average Before 50.025664, Average After 0.5002566399999999
+2024-08-28 12:07:06,305:INFO:Processing element aabbcc5 from CT SCAN
+2024-08-28 12:07:06,427:INFO:Element aabbcc5, Device CT SCAN, Data Size 250000, Average Before 49.951484, Average After 0.4995148399999999
+2024-08-28 12:07:06,427:INFO:Processing element aabbcc7 from RX 1
+2024-08-28 12:07:06,427:INFO:Processing element aabbcc6 from RX 1
+2024-08-28 12:07:06,503:INFO:Processing element aabbcc8 from RX 1
+2024-08-28 12:07:06,539:INFO:Processing element aabbcc9 from MRI
+2024-08-28 12:07:06,540:INFO:Element aabbcc7, Device RX 1, Data Size 250000, Average Before 50.063484, Average After 0.5006348400000001
+2024-08-28 12:07:06,540:INFO:Element aabbcc6, Device RX 1, Data Size 250000, Average Before 50.061148, Average After 0.5006114800000001
+2024-08-28 12:07:06,566:INFO:Element aabbcc8, Device RX 1, Data Size 250000, Average Before 50.05116, Average After 0.5005116000000002
+2024-08-28 12:07:06,612:INFO:Element aabbcc9, Device MRI, Data Size 250000, Average Before 50.114768, Average After 0.5011476800000001
+2024-08-28 12:07:06,687:INFO:Processing element aabbcc10 from RX 1
+2024-08-28 12:07:06,687:INFO:Processing element aabbcc11 from MRI
+2024-08-28 12:07:06,767:INFO:Processing element aabbcc12 from MRI
+2024-08-28 12:07:06,803:INFO:Element aabbcc10, Device RX 1, Data Size 250000, Average Before 49.953724, Average After 0.4995372400000001
+2024-08-28 12:07:06,803:INFO:Processing element aabbcc13 from CT SCAN
+2024-08-28 12:07:06,827:INFO:Element aabbcc11, Device MRI, Data Size 250000, Average Before 50.031, Average After 0.50031
+2024-08-28 12:07:06,842:INFO:Element aabbcc12, Device MRI, Data Size 250000, Average Before 50.024808, Average After 0.5002480800000001
+2024-08-28 12:07:06,904:INFO:Element aabbcc13, Device CT SCAN, Data Size 250000, Average Before 50.121756, Average After 0.5012175600000001
+2024-08-28 12:07:06,932:INFO:Processing element aabbcc14 from MRI
+2024-08-28 12:07:06,983:INFO:Processing element aabbcc15 from RX 1
+2024-08-28 12:07:07,062:INFO:Processing element aabbcc16 from MRI
+2024-08-28 12:07:07,062:INFO:Processing element aabbcc17 from RX 1
+2024-08-28 12:07:07,062:INFO:Element aabbcc14, Device MRI, Data Size 250000, Average Before 50.05206, Average After 0.5005205999999999
+2024-08-28 12:07:07,077:INFO:Element aabbcc15, Device RX 1, Data Size 250000, Average Before 49.980448, Average After 0.49980447999999994
+2024-08-28 12:07:07,093:INFO:Element aabbcc16, Device MRI, Data Size 250000, Average Before 50.060764, Average After 0.50060764
+2024-08-28 12:07:07,124:INFO:Element aabbcc17, Device RX 1, Data Size 250000, Average Before 49.91966, Average After 0.49919660000000005
+2024-08-28 12:07:07,139:INFO:Processing element aabbcc18 from RX 1
+2024-08-28 12:07:07,229:INFO:Element aabbcc18, Device RX 1, Data Size 250000, Average Before 50.037816, Average After 0.5003781599999999
+2024-08-28 12:07:07,229:INFO:Processing element aabbcc19 from MRI
+2024-08-28 12:07:07,230:INFO:Processing element aabbcc20 from MRI
+2024-08-28 12:07:07,232:INFO:Element aabbcc19, Device MRI, Data Size 250000, Average Before 49.957376, Average After 0.4995737600000001
+2024-08-28 12:07:07,233:INFO:Element aabbcc20, Device MRI, Data Size 250000, Average Before 49.976344, Average After 0.49976343999999995
+2024-08-28 12:07:30,981:INFO:Processing element aabbcc1 from RX 1
+2024-08-28 12:07:31,059:INFO:Processing element aabbcc3 from CT SCAN
+2024-08-28 12:07:31,112:INFO:Processing element aabbcc2 from CT SCAN
+2024-08-28 12:07:31,112:INFO:Processing element aabbcc4 from MRI
+2024-08-28 12:07:31,113:INFO:Element aabbcc1, Device RX 1, Data Size 250000, Average Before 50.010948, Average After 0.50010948
+2024-08-28 12:07:31,121:INFO:Element aabbcc3, Device CT SCAN, Data Size 250000, Average Before 50.161724, Average After 0.50161724
+2024-08-28 12:07:31,137:INFO:Element aabbcc2, Device CT SCAN, Data Size 250000, Average Before 49.926652, Average After 0.49926652
+2024-08-28 12:07:31,153:INFO:Element aabbcc4, Device MRI, Data Size 250000, Average Before 50.025664, Average After 0.5002566399999999
+2024-08-28 12:07:31,176:INFO:Processing element aabbcc5 from CT SCAN
+2024-08-28 12:07:31,246:INFO:Element aabbcc5, Device CT SCAN, Data Size 250000, Average Before 49.951484, Average After 0.4995148399999999
+2024-08-28 12:07:31,294:INFO:Processing element aabbcc7 from RX 1
+2024-08-28 12:07:31,308:INFO:Processing element aabbcc6 from RX 1
+2024-08-28 12:07:31,370:INFO:Processing element aabbcc8 from RX 1
+2024-08-28 12:07:31,410:INFO:Element aabbcc7, Device RX 1, Data Size 250000, Average Before 50.063484, Average After 0.5006348400000001
+2024-08-28 12:07:31,410:INFO:Element aabbcc6, Device RX 1, Data Size 250000, Average Before 50.061148, Average After 0.5006114800000001
+2024-08-28 12:07:31,410:INFO:Processing element aabbcc9 from MRI
+2024-08-28 12:07:31,450:INFO:Element aabbcc8, Device RX 1, Data Size 250000, Average Before 50.05116, Average After 0.5005116000000002
+2024-08-28 12:07:31,472:INFO:Processing element aabbcc10 from RX 1
+2024-08-28 12:07:31,472:INFO:Element aabbcc9, Device MRI, Data Size 250000, Average Before 50.114768, Average After 0.5011476800000001
+2024-08-28 12:07:31,575:INFO:Element aabbcc10, Device RX 1, Data Size 250000, Average Before 49.953724, Average After 0.4995372400000001
+2024-08-28 12:07:31,638:INFO:Processing element aabbcc12 from MRI
+2024-08-28 12:07:31,638:INFO:Processing element aabbcc11 from MRI
+2024-08-28 12:07:31,732:INFO:Element aabbcc11, Device MRI, Data Size 250000, Average Before 50.031, Average After 0.50031
+2024-08-28 12:07:31,779:INFO:Element aabbcc12, Device MRI, Data Size 250000, Average Before 50.024808, Average After 0.5002480800000001
+2024-08-28 12:07:31,779:INFO:Processing element aabbcc14 from MRI
+2024-08-28 12:07:31,827:INFO:Processing element aabbcc13 from CT SCAN
+2024-08-28 12:07:31,890:INFO:Processing element aabbcc15 from RX 1
+2024-08-28 12:07:31,928:INFO:Element aabbcc14, Device MRI, Data Size 250000, Average Before 50.05206, Average After 0.5005205999999999
+2024-08-28 12:07:31,928:INFO:Processing element aabbcc16 from MRI
+2024-08-28 12:07:31,928:INFO:Element aabbcc13, Device CT SCAN, Data Size 250000, Average Before 50.121756, Average After 0.5012175600000001
+2024-08-28 12:07:31,983:INFO:Element aabbcc15, Device RX 1, Data Size 250000, Average Before 49.980448, Average After 0.49980447999999994
+2024-08-28 12:07:32,039:INFO:Element aabbcc16, Device MRI, Data Size 250000, Average Before 50.060764, Average After 0.50060764
+2024-08-28 12:07:32,039:INFO:Processing element aabbcc18 from RX 1
+2024-08-28 12:07:32,039:INFO:Processing element aabbcc17 from RX 1
+2024-08-28 12:07:32,151:INFO:Processing element aabbcc19 from MRI
+2024-08-28 12:07:32,151:INFO:Processing element aabbcc20 from MRI
+2024-08-28 12:07:32,153:INFO:Element aabbcc18, Device RX 1, Data Size 250000, Average Before 50.037816, Average After 0.5003781599999999
+2024-08-28 12:07:32,153:INFO:Element aabbcc17, Device RX 1, Data Size 250000, Average Before 49.91966, Average After 0.49919660000000005
+2024-08-28 12:07:32,153:INFO:Element aabbcc19, Device MRI, Data Size 250000, Average Before 49.957376, Average After 0.4995737600000001
+2024-08-28 12:07:32,154:INFO:Element aabbcc20, Device MRI, Data Size 250000, Average Before 49.976344, Average After 0.49976343999999995
+2024-08-28 12:08:00,030:INFO:Processing element aabbcc1 from RX 1
+2024-08-28 12:08:00,171:INFO:Element aabbcc1, Device RX 1, Data Size 250000, Average Before 50.010948, Average After 0.50010948
+2024-08-28 12:08:00,172:INFO:Processing element aabbcc2 from CT SCAN
+2024-08-28 12:08:00,172:INFO:Processing element aabbcc3 from CT SCAN
+2024-08-28 12:08:00,172:INFO:Processing element aabbcc4 from MRI
+2024-08-28 12:08:00,202:INFO:Element aabbcc2, Device CT SCAN, Data Size 250000, Average Before 49.926652, Average After 0.49926652
+2024-08-28 12:08:00,238:INFO:Element aabbcc4, Device MRI, Data Size 250000, Average Before 50.025664, Average After 0.5002566399999999
+2024-08-28 12:08:00,238:INFO:Processing element aabbcc5 from CT SCAN
+2024-08-28 12:08:00,239:INFO:Element aabbcc3, Device CT SCAN, Data Size 250000, Average Before 50.161724, Average After 0.50161724
+2024-08-28 12:08:00,264:INFO:Element aabbcc5, Device CT SCAN, Data Size 250000, Average Before 49.951484, Average After 0.4995148399999999
+2024-08-28 12:08:00,296:INFO:Processing element aabbcc6 from RX 1
+2024-08-28 12:08:00,353:INFO:Element aabbcc6, Device RX 1, Data Size 250000, Average Before 50.061148, Average After 0.5006114800000001
+2024-08-28 12:08:00,353:INFO:Processing element aabbcc7 from RX 1
+2024-08-28 12:08:00,409:INFO:Processing element aabbcc8 from RX 1
+2024-08-28 12:08:00,419:INFO:Element aabbcc7, Device RX 1, Data Size 250000, Average Before 50.063484, Average After 0.5006348400000001
+2024-08-28 12:08:00,468:INFO:Element aabbcc8, Device RX 1, Data Size 250000, Average Before 50.05116, Average After 0.5005116000000002
+2024-08-28 12:08:00,468:INFO:Processing element aabbcc9 from MRI
+2024-08-28 12:08:00,496:INFO:Element aabbcc9, Device MRI, Data Size 250000, Average Before 50.114768, Average After 0.5011476800000001
+2024-08-28 12:08:00,530:INFO:Processing element aabbcc10 from RX 1
+2024-08-28 12:08:00,558:INFO:Element aabbcc10, Device RX 1, Data Size 250000, Average Before 49.953724, Average After 0.4995372400000001
+2024-08-28 12:08:00,654:INFO:Processing element aabbcc11 from MRI
+2024-08-28 12:08:00,742:INFO:Processing element aabbcc12 from MRI
+2024-08-28 12:08:00,763:INFO:Processing element aabbcc13 from CT SCAN
+2024-08-28 12:08:00,804:INFO:Element aabbcc11, Device MRI, Data Size 250000, Average Before 50.031, Average After 0.50031
+2024-08-28 12:08:00,804:INFO:Processing element aabbcc14 from MRI
+2024-08-28 12:08:00,826:INFO:Element aabbcc12, Device MRI, Data Size 250000, Average Before 50.024808, Average After 0.5002480800000001
+2024-08-28 12:08:00,869:INFO:Processing element aabbcc15 from RX 1
+2024-08-28 12:08:00,869:INFO:Element aabbcc14, Device MRI, Data Size 250000, Average Before 50.05206, Average After 0.5005205999999999
+2024-08-28 12:08:00,887:INFO:Element aabbcc13, Device CT SCAN, Data Size 250000, Average Before 50.121756, Average After 0.5012175600000001
+2024-08-28 12:08:00,941:INFO:Processing element aabbcc16 from MRI
+2024-08-28 12:08:00,949:INFO:Element aabbcc15, Device RX 1, Data Size 250000, Average Before 49.980448, Average After 0.49980447999999994
+2024-08-28 12:08:01,026:INFO:Processing element aabbcc17 from RX 1
+2024-08-28 12:08:01,051:INFO:Processing element aabbcc18 from RX 1
+2024-08-28 12:08:01,072:INFO:Element aabbcc16, Device MRI, Data Size 250000, Average Before 50.060764, Average After 0.50060764
+2024-08-28 12:08:01,088:INFO:Element aabbcc17, Device RX 1, Data Size 250000, Average Before 49.91966, Average After 0.49919660000000005
+2024-08-28 12:08:01,117:INFO:Element aabbcc18, Device RX 1, Data Size 250000, Average Before 50.037816, Average After 0.5003781599999999
+2024-08-28 12:08:01,136:INFO:Processing element aabbcc19 from MRI
+2024-08-28 12:08:01,174:INFO:Processing element aabbcc20 from MRI
+2024-08-28 12:08:01,176:INFO:Element aabbcc19, Device MRI, Data Size 250000, Average Before 49.957376, Average After 0.4995737600000001
+2024-08-28 12:08:01,176:INFO:Element aabbcc20, Device MRI, Data Size 250000, Average Before 49.976344, Average After 0.49976343999999995
+2024-08-28 12:08:22,519:INFO:Processing element aabbcc1 from RX 1
+2024-08-28 12:08:22,524:INFO:Processing element aabbcc2 from CT SCAN
+2024-08-28 12:08:22,524:INFO:Processing element aabbcc3 from CT SCAN
+2024-08-28 12:08:22,567:INFO:Processing element aabbcc4 from MRI
+2024-08-28 12:08:22,569:INFO:Element aabbcc1, Device RX 1, Data Size 250000, Average Before 50.010948, Average After 0.50010948
+2024-08-28 12:08:22,569:INFO:Element aabbcc2, Device CT SCAN, Data Size 250000, Average Before 49.926652, Average After 0.49926652
+2024-08-28 12:08:22,587:INFO:Element aabbcc4, Device MRI, Data Size 250000, Average Before 50.025664, Average After 0.5002566399999999
+2024-08-28 12:08:22,603:INFO:Element aabbcc3, Device CT SCAN, Data Size 250000, Average Before 50.161724, Average After 0.50161724
+2024-08-28 12:08:22,696:INFO:Processing element aabbcc6 from RX 1
+2024-08-28 12:08:22,742:INFO:Processing element aabbcc5 from CT SCAN
+2024-08-28 12:08:22,802:INFO:Processing element aabbcc7 from RX 1
+2024-08-28 12:08:22,853:INFO:Processing element aabbcc8 from RX 1
+2024-08-28 12:08:22,853:INFO:Element aabbcc6, Device RX 1, Data Size 250000, Average Before 50.061148, Average After 0.5006114800000001
+2024-08-28 12:08:22,885:INFO:Element aabbcc7, Device RX 1, Data Size 250000, Average Before 50.063484, Average After 0.5006348400000001
+2024-08-28 12:08:22,902:INFO:Element aabbcc5, Device CT SCAN, Data Size 250000, Average Before 49.951484, Average After 0.4995148399999999
+2024-08-28 12:08:22,960:INFO:Element aabbcc8, Device RX 1, Data Size 250000, Average Before 50.05116, Average After 0.5005116000000002
+2024-08-28 12:08:23,058:INFO:Processing element aabbcc9 from MRI
+2024-08-28 12:08:23,136:INFO:Processing element aabbcc11 from MRI
+2024-08-28 12:08:23,153:INFO:Processing element aabbcc12 from MRI
+2024-08-28 12:08:23,186:INFO:Processing element aabbcc10 from RX 1
+2024-08-28 12:08:23,186:INFO:Element aabbcc9, Device MRI, Data Size 250000, Average Before 50.114768, Average After 0.5011476800000001
+2024-08-28 12:08:23,231:INFO:Element aabbcc12, Device MRI, Data Size 250000, Average Before 50.024808, Average After 0.5002480800000001
+2024-08-28 12:08:23,231:INFO:Element aabbcc11, Device MRI, Data Size 250000, Average Before 50.031, Average After 0.50031
+2024-08-28 12:08:23,255:INFO:Element aabbcc10, Device RX 1, Data Size 250000, Average Before 49.953724, Average After 0.4995372400000001
+2024-08-28 12:08:23,255:INFO:Processing element aabbcc13 from CT SCAN
+2024-08-28 12:08:23,388:INFO:Processing element aabbcc14 from MRI
+2024-08-28 12:08:23,388:INFO:Processing element aabbcc15 from RX 1
+2024-08-28 12:08:23,454:INFO:Element aabbcc13, Device CT SCAN, Data Size 250000, Average Before 50.121756, Average After 0.5012175600000001
+2024-08-28 12:08:23,454:INFO:Processing element aabbcc16 from MRI
+2024-08-28 12:08:23,455:INFO:Element aabbcc14, Device MRI, Data Size 250000, Average Before 50.05206, Average After 0.5005205999999999
+2024-08-28 12:08:23,481:INFO:Element aabbcc15, Device RX 1, Data Size 250000, Average Before 49.980448, Average After 0.49980447999999994
+2024-08-28 12:08:23,513:INFO:Element aabbcc16, Device MRI, Data Size 250000, Average Before 50.060764, Average After 0.50060764
+2024-08-28 12:08:23,560:INFO:Processing element aabbcc17 from RX 1
+2024-08-28 12:08:23,622:INFO:Processing element aabbcc18 from RX 1
+2024-08-28 12:08:23,654:INFO:Processing element aabbcc19 from MRI
+2024-08-28 12:08:23,686:INFO:Element aabbcc17, Device RX 1, Data Size 250000, Average Before 49.91966, Average After 0.49919660000000005
+2024-08-28 12:08:23,715:INFO:Element aabbcc18, Device RX 1, Data Size 250000, Average Before 50.037816, Average After 0.5003781599999999
+2024-08-28 12:08:23,715:INFO:Processing element aabbcc20 from MRI
+2024-08-28 12:08:23,716:INFO:Element aabbcc19, Device MRI, Data Size 250000, Average Before 49.957376, Average After 0.4995737600000001
+2024-08-28 12:08:23,718:INFO:Element aabbcc20, Device MRI, Data Size 250000, Average Before 49.976344, Average After 0.49976343999999995
