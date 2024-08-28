@@ -128,7 +128,6 @@ class StudyRecord(PatientRecord):
     
     def load_from_dicom(self, dicom_file):
         ds = pydicom.dcmread(dicom_file)
-        print(ds)
         self.set_modality(ds.Modality)
         self.set_study_date(ds.StudyDate)
         self.set_study_time(ds.StudyTime)
@@ -156,14 +155,11 @@ def __str__(self):
                 f"Number of Frames: {self.number_of_frames}")
         
         
-# Create a StudyRecord object
-study_instance = StudyRecord(name="John Doe", age=30, birth_date="1993-01-01", sex="M", weight=70, patient_id="12345", id_type="SSN")
+study_instance = StudyRecord(name="Orion Guevara", age=23, birth_date="2001-02-13", sex="M", weight=65, patient_id="1193142789", id_type="CC")
+print(study_instance)
 
-# Update patient diagnosis
 study_instance.update_diagnosis("Hello World")
 
-# Load study details from a DICOM file
 study_instance.load_from_dicom('./sample-02-dicom.dcm')
 
-# Print all patient and study information
 print(study_instance)
