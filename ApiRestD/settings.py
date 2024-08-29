@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'device',
     'rest_framework',
+    'coreapi',
 ]
 
 MIDDLEWARE = [
@@ -146,4 +147,8 @@ LOGGING = {
             'propagate': True,
         },
     },
+}
+
+REST_FRAMEWORK = {
+    'DEFAULT_SCHEMA_CLASS': 'rest_framework.schemas.coreapi.AutoSchema'
 }
