@@ -5,6 +5,7 @@ import numpy as np
 # Create your models here.
 
 
+# DeviceData model
 class DeviceData(models.Model):
     id = models.CharField(max_length=50, primary_key=True)
     deviceName = models.CharField(max_length=100)
@@ -16,6 +17,7 @@ class DeviceData(models.Model):
     def __str__(self):
         return f"{self.deviceName} - {self.id}"
 
+    # Calculate the average of the data before and after normalization
     def calculate_avg(self):
         data2 = [list(map(int, row.split())) for row in self.data]
         all_values = np.array(data2).flatten()
@@ -28,7 +30,7 @@ class DeviceData(models.Model):
         self.avgAfter = np.mean(normalized_values)
 
         self.dataSize = all_values.size
-
+    # Save the data
     def save(self, *args, **kwargs):
         self.calculate_avg()
         super().save(*args, **kwargs)

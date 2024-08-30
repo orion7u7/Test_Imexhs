@@ -6,10 +6,14 @@ import logging
 
 logger = logging.getLogger(__name__)
 
+# Create a viewset for the DeviceData model
 class DeviceDataViewSet(viewsets.ModelViewSet):
     queryset = DeviceData.objects.all()
     serializer_class = DeviceDataSerializer
 
+    # Override the create, update, and destroy methods to log the request data
+    
+    # Create a new DeviceData object
     def create(self, request, *args, **kwargs):
         logger.info(f"POST Request data: {request.data}")
         serializer = self.get_serializer(data=request.data)
@@ -20,6 +24,7 @@ class DeviceDataViewSet(viewsets.ModelViewSet):
         logger.error(f"POST Request failed: {serializer.errors}")
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
     
+    # Update an existing DeviceData object
     def update(self, request, *args, **kwargs):
         logger.info(f"PUT/PATCH Request data: {request.data}")
         partial = kwargs.pop('partial', False)
@@ -32,6 +37,7 @@ class DeviceDataViewSet(viewsets.ModelViewSet):
         logger.error(f"PUT/PATCH Request failed: {serializer.errors}")
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
     
+    # Delete an existing DeviceData object
     def destroy(self, request, *args, **kwargs):
         logger.info(f"DELETE Request data: {request.data}")
         instance = self.get_object()
