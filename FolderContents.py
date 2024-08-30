@@ -1,5 +1,6 @@
 import os
 
+# This function counts the number of elements in a folder
 def count_folder_contents(path):
     try:
         return len(os.listdir(path))
