@@ -1,11 +1,11 @@
 import logging
 import pydicom
 from datetime import datetime
-
 import pydicom.tag
 
 logging.basicConfig(filename='patientRecord.log', level=logging.INFO, format='%(asctime)s:%(levelname)s:%(message)s')
 
+# This class represents a patient record
 class PatientRecord:
     def __init__(self, name, age, birth_date, sex, weight, patient_id, id_type):
         self.name = name
@@ -80,6 +80,7 @@ class PatientRecord:
                 f"Diagnosis: {self.diagnosis}")
     
 
+# This class represents a study record
 class StudyRecord(PatientRecord):
     def __init__(self, name, age, birth_date, sex, weight, patient_id, id_type, modality=None, study_date=None, study_time=None, study_instance_uid=None, series_number=None, number_of_frames=None):
         super().__init__(name, age, birth_date, sex, weight, patient_id, id_type)
@@ -126,6 +127,7 @@ class StudyRecord(PatientRecord):
     def get_number_of_frames(self):
         return self.number_of_frames
     
+    # Method to load study information from a DICOM file
     def load_from_dicom(self, dicom_file):
         ds = pydicom.dcmread(dicom_file)
         self.set_modality(ds.Modality)
@@ -143,7 +145,7 @@ class StudyRecord(PatientRecord):
         self.set_weight(ds.get('PatientWeight', None))
         self.set_patient_id(ds.PatientID)
         self.set_id_type('DICOM')
-        
+ 
 def __str__(self):
         return (super().__str__() + "\n"
                 f"Study Record:\n"
@@ -154,12 +156,14 @@ def __str__(self):
                 f"Series Number: {self.series_number}\n"
                 f"Number of Frames: {self.number_of_frames}")
         
-        
+
+# Create a study record instance
 study_instance = StudyRecord(name="Orion Guevara", age=23, birth_date="2001-02-13", sex="M", weight=65, patient_id="1193142789", id_type="CC")
 print(study_instance)
 
+# Update the diagnosis
 study_instance.update_diagnosis("Hello World")
 
+# Load study information from a DICOM file
 study_instance.load_from_dicom('./sample-02-dicom.dcm')
-
 print(study_instance)
